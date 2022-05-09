@@ -6,7 +6,8 @@ install! 'cocoapods', :deterministic_uuids => false
 
 target 'start1' do
   config = use_native_modules!
-
+  pod 'FSPagerView'
+  pod 'SwiftSoup'
   # Flags change depending on the env values.
   flags = get_default_flags()
 
