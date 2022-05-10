@@ -90,10 +90,10 @@ const App: () => Node = () => {
   );
 };
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create({  //여기서는 속성들임
   sectionContainer: {
     marginTop: 32,
-    paddingHorizontal: 24,
+    paddingHorizontal: 24,  
   },
   sectionTitle: {
     fontSize: 24,
