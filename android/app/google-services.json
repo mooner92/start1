@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358999255264",
+    "project_id": "healthmeta-5af2c",
+    "storage_bucket": "healthmeta-5af2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358999255264:android:9d013b1406deb572ad0885",
+        "android_client_info": {
+          "package_name": "com.start1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358999255264-vmtuu85u9h6sf5budin4fngbubdo5ttk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWy1Kytfe5Z5d3hCGaTI-Fx1LFuXGk6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358999255264-vmtuu85u9h6sf5budin4fngbubdo5ttk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
