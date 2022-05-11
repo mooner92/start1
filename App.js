@@ -8,6 +8,8 @@
 
 import React from 'react';
 import type {Node} from 'react';
+
+
 import {
   SafeAreaView,
   ScrollView,
@@ -74,8 +76,8 @@ const App: () => Node = () => {
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
+          <Section title="See Your Changes">  
+            <ReloadInstructions /> 
           </Section>
           <Section title="Debug">
             <DebugInstructions />
